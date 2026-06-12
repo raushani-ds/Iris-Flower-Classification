@@ -96,6 +96,3 @@ Iris-Flower-Classification/
 
 Raushani Raj
 
-M.Sc. Data Science
-
-Uttaranchal University
